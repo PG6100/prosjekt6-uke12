@@ -1,2 +1,2 @@
-prosjekt6-uke12
+prosjekt6-uke12, PG6100
 ===============
