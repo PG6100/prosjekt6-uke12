@@ -11,9 +11,9 @@ public class Main {
 
     public static void main(String[] args) throws Exception {
         Properties props = new Properties();
-        props.setProperty("java.naming.factory.initial", "com.sun.enterprise.naming.SerialInitContextFactory");
-        props.setProperty("java.naming.factory.url.pkgs", "com.sun.enterprise.naming");
-        props.setProperty("java.naming.factory.state", "com.sun.corba.ee.impl.presentation.rmi.JNDIStateFactoryImpl");
+//        props.setProperty("java.naming.factory.initial", "com.sun.enterprise.naming.SerialInitContextFactory");
+//        props.setProperty("java.naming.factory.url.pkgs", "com.sun.enterprise.naming");
+//        props.setProperty("java.naming.factory.state", "com.sun.corba.ee.impl.presentation.rmi.JNDIStateFactoryImpl");
         // optional.  Default er localhost
         //props.setProperty("org.omg.CORBA.ORBInitialHost", "localhost");
         // optional.  Default er uansett 3700.
